@@ -1,6 +1,5 @@
 # Android-Project Cabbie
 <h1>App Name: Cabbie</h1>
-##App logo:
 
 ![carpool](https://user-images.githubusercontent.com/46693473/66250013-12a0f500-e702-11e9-9db6-47790127da46.PNG)
 
