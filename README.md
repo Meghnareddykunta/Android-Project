@@ -1,7 +1,7 @@
 # Android-Project Cabbie
 <h1>App Name: Cabbie</h1>
 <h2>App Logo<h2>
- ![0](https://smartcommutemetronorth.org/wp-content/uploads/2018/03/carpool.png)
+ ![0](https://github.com/Meghnareddykunta/Cabbie/blob/master/carpool.jpg)
 <h2>Team Members:</h2>
   <li>&nbsp  Midhun Kandakatla</li>
   <li>&nbsp  Ramesh Nutulapathi</li>
