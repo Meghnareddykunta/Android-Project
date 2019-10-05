@@ -1,7 +1,7 @@
 # Android-Project Cabbie
 <h1>App Name: Cabbie</h1>
 <h2>App Logo<h2>
- ![0](https://github.com/Meghnareddykunta/Cabbie/blob/master/carpool.jpg)
+
 <h2>Team Members:</h2>
   <li>&nbsp  Midhun Kandakatla</li>
   <li>&nbsp  Ramesh Nutulapathi</li>
@@ -24,4 +24,4 @@ Device planning to use in our project is:
 Device Name: Google Pixel 3 XL
 Android API: 9.0 API 28
 </p>
- Database planning to use: Firebase.com (Firebase is a mobile and web application development platform.)
+ Database to be used: Firebase.
