@@ -1,11 +1,13 @@
 # Android-Project Cabbie
 <h1>App Name: Cabbie</h1>
 <h2>App Logo<h2>
+  ![carpool](https://user-images.githubusercontent.com/46693473/66250013-12a0f500-e702-11e9-9db6-47790127da46.PNG)
+
 
 <h2>Team Members:</h2>
   <li>&nbsp  Midhun Kandakatla</li>
   <li>&nbsp  Ramesh Nutulapathi</li>
-  <li>&nbsp  Meghana Reddy Kunta</li>
+  <li>&nbsp  Meghna Reddy Kunta</li>
   <li>&nbsp  Akhil Kumar Reddy Busireddy</li>
  <h2> Introduction to our Project:</h2>
 <p>Cabbie is the sharing of car journeys so that more than one person travels in a car, and prevents the need for others to have to drive to a location themselves. We often travel long distances lonely which makes us bore besides costing more money.</p>
