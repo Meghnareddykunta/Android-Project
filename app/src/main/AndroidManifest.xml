@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Request_New_Ride"></activity>
+        <activity android:name=".ProvideRide"></activity>
+        <activity android:name=".Request_New_Ride" />
         <activity android:name=".RideDetails" />
         <activity android:name=".LandingPage" />
         <activity android:name=".MainActivity">

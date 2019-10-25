@@ -21,7 +21,8 @@ public class LandingPage extends AppCompatActivity {
     public void lookForRideClicked(View v){
         finish();
     }
-    public void provideRideClicked(View v){
-        finish();
+    public void provideRideClicked(View view){
+        Intent intent = new Intent(getApplicationContext(), ProvideRide.class);
+        startActivity(intent);
     }
 }
