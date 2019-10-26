@@ -15,12 +15,13 @@ public class LandingPage extends AppCompatActivity {
         Intent ini = getIntent();
     }
 
-    public void onSlide(View v){
-        finish();
-    }
-    public void lookForRideClicked(View v){
-        finish();
-    }
+
+
+//    public void lookForRideClicked(View view){
+//        Intent intent = new Intent(getApplicationContext(), LookForRideActivity.class);
+//        startActivity(intent);
+//    }
+
     public void provideRideClicked(View view){
         Intent intent = new Intent(getApplicationContext(), ProvideRide.class);
         startActivity(intent);
