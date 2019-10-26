@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ProvideRide"></activity>
+        <activity android:name=".LookForRideActvity" />
+        <activity android:name=".Look_for_Ride" />
+        <activity android:name=".ProvideRide" />
         <activity android:name=".Request_New_Ride" />
-        <activity android:name=".RideDetails" />
         <activity android:name=".LandingPage" />
         <activity android:name=".MainActivity">
             <intent-filter>
