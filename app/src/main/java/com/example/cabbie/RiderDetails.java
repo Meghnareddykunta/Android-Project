@@ -18,7 +18,6 @@ public class RiderDetails implements Serializable {
     String phone;
 
     public RiderDetails() {
-        
     }
 
     public RiderDetails(String name, String fromAddress, String toAddress, String fromCity, String fromState, String fromZipCode, String toCity, String toState, String toZipCode, String date, String time, int resId, String phone) {
