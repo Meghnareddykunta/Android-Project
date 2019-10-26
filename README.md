@@ -26,4 +26,4 @@ Device planning to use in our project is:
 Device Name: Google Pixel 3 XL
 Android API: 9.0 API 28
 </p>
- Database to be used: Firebase.
+ Database to be used: As per data size and usability measures we would like to use either back4app or firebase.
