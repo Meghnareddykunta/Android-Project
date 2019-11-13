@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509802663212",
+    "firebase_url": "https://cabbie-22446.firebaseio.com",
+    "project_id": "cabbie-22446",
+    "storage_bucket": "cabbie-22446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509802663212:android:fc6eb8bd2658ee54ac3089",
+        "android_client_info": {
+          "package_name": "com.example.cabbie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509802663212-ntt7pog0ipvvinaier7o23uj6fbqforj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVgLxbqwOJJaAw5wGo7rNHhg34NHLB_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509802663212-ntt7pog0ipvvinaier7o23uj6fbqforj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
