@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ProvideRide">
+    tools:context=".ProvideNewRideFragment">
 
     <Button
         android:id="@+id/provide_ride_request_ride"

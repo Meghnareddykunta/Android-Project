@@ -3,7 +3,6 @@ package com.example.cabbie;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.SeekBar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -23,7 +22,7 @@ public class LandingPage extends AppCompatActivity {
 //    }
 
     public void provideRideClicked(View view){
-        Intent intent = new Intent(getApplicationContext(), ProvideRide.class);
+        Intent intent = new Intent(getApplicationContext(), ProvideNewRideFragment.class);
         startActivity(intent);
     }
 }

@@ -12,7 +12,7 @@
         <activity android:name=".LookForRideActivity"></activity>
         <activity android:name=".LookForRideActvity" />
         <activity android:name=".Look_for_Ride" />
-        <activity android:name=".ProvideRide" />
+        <activity android:name=".ProvideNewRideFragment" />
         <activity android:name=".Request_New_Ride" />
         <activity android:name=".LandingPage" />
         <activity android:name=".MainActivity">
