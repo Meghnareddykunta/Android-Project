@@ -26,7 +26,7 @@ Device planning to use in our project is:
 Device Name: Google Pixel 3 XL
 Android API: 9.0 API 28
 </p>
- Database to be used:Firebase.
+ Database used:Firebase.
  <h2>Installation Steps</h2>
 
 <li>clone our repo.</li>
@@ -35,7 +35,8 @@ Android API: 9.0 API 28
 
 <h2>Requirements:</h2>
 <li>Mobile with the Android operating System.</li>
-<li>We need the above API properties to run the app and to have good user interface.</li>
+<li>Minimum 1 GB RAM.</li>
+<li>Minimum 8 GB internal storage.</li>
 <li>To run this app we need internet.</li>
 
 <h2>Test Credentials:</h2>
