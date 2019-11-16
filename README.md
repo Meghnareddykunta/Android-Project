@@ -43,7 +43,7 @@ Android API: 9.0 API 28
 <li>Username: 919# </li>
 <li>password: Your 919# password</li>
  
-<h2>Sequence of our App:<h2>
+<h2>Sequence of our App:</h2>
  
 <li>We have a login Page.</li>
 <li>We have a Welcome page of the app which shows the options to Look for a ride or Provide a ride.</li>
