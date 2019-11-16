@@ -26,4 +26,40 @@ Device planning to use in our project is:
 Device Name: Google Pixel 3 XL
 Android API: 9.0 API 28
 </p>
- Database to be used: As per data size and usability measures we would like to use either back4app or firebase.
+ Database to be used:Firebase.
+ <h2>Installation Steps</h2>
+<ul>
+clone our repo.
+Open our project in Android studio.
+run the application in any AVD or GVD.
+</ul>
+<h2>Requirements:</h2>
+<p>
+<ul>
+Mobile with the Android operating System.
+We need the above API properties to run the app and to have good user interface.
+To run this app we need internet.
+</ul>
+</p>
+<h2>Test Credentials:</h2>
+<p>
+<ul>
+ Username: 919#
+ password: Your 919# password
+ </ul>
+</p>
+<h2>Sequence of our App:<h2>
+ 
+<p>
+<ul>
+We have a login Page.
+We have a Welcome page of the app which shows the options to Look for a ride or Provide a ride.
+When we click look for a ride, we will be displayed with tabbed activity showing all the Available ride list and Request ride.
+Available ride list information will be available from the provide a ride->Offer a ride.
+We go to Request a ride option when we do not find the ride we require in the available ride list. When we click Request a ride, we will be navigated into a page asking to fill details to request the ride we want.
+When we click on provide a ride option it also has a tabbed activity showing Requested Rides and Offer a ride.
+Requested rides contains the list of rides requested from the Look for a ride->Request a ride pages.
+Offer a ride navigates to a page to provide the details of the person who is offering ride and these gets viewed in the Available ride list.
+</ul>
+</p>
+
