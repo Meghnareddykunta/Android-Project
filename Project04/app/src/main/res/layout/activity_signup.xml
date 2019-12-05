@@ -64,7 +64,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Set password"
-        android:inputType="textPersonName" />
+        android:inputType="textPassword" />
 
     <TextView
         android:id="@+id/phoneTV"

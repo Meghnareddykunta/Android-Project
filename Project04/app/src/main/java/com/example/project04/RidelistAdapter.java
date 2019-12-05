@@ -42,6 +42,9 @@ public class RidelistAdapter extends RecyclerView.Adapter<RidelistAdapter.ItemsV
             destination = itemView.findViewById(R.id.destination);
             date = itemView.findViewById(R.id.date);
             time = itemView.findViewById(R.id.time);
+
+
+
             contact=itemView.findViewById(R.id.button6);
         }
     }
@@ -63,6 +66,7 @@ public class RidelistAdapter extends RecyclerView.Adapter<RidelistAdapter.ItemsV
         itemsViewHolder.destination.setText("To: " + currentItem.getDestlocation());
         itemsViewHolder.date.setText("Date: " + currentItem.getDate());
         itemsViewHolder.time.setText("Time: " + currentItem.getTime());
+
 
         itemsViewHolder.contact.setOnClickListener(new View.OnClickListener() {
             @Override

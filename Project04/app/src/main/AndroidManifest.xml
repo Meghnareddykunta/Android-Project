@@ -18,6 +18,7 @@
         <activity android:name=".signIn_Home_Page" />
         <activity android:name=".Signup" />
         <activity android:name=".MainActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,5 +26,6 @@
             </intent-filter>
         </activity>
     </application>
+
 
 </manifest>
