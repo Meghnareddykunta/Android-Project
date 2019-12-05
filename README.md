@@ -31,6 +31,7 @@ Database: Firebase
 <h2> APK File:</h2>
 
 
+
 <h2>Installation Steps</h2>
 <li>1) clone our repo.</li>
 <li>2) Open our project in Android studio.</li>
@@ -50,7 +51,7 @@ To run this app we need internet.
 <li> Username: midhun@gmail.com</li>
 <li>password: midhun</li>
 </p>
-<h2>Sequence:<h2>
+<h2>Sequence:</h2>
  <li>Home Page</li>
  <li>Register Page</li>
  <li>Look for a Ride </li>
