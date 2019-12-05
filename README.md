@@ -1,7 +1,8 @@
 # Cabbie-Android-Project
 <h1>App name: Cabbie </h1>
 <h2> App logo <h2>
-![image](https://user-images.githubusercontent.com/46693473/70252503-250dce00-1747-11ea-8941-081888760c5a.png)
+![image](https://user-images.githubusercontent.com/46693473/70253211-6652ad80-1748-11ea-9a39-c359c490bd59.png)
+
 
 <h2>Team Members:</h2>
  <li>1. Midhun Kandakatla</li>
