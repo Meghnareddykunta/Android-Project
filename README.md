@@ -8,7 +8,7 @@
  <li>1. Midhun Kandakatla</li>
  <li>2. Ramesh Nutulapathi</li>
  <li>3. Meghna Reddy Kunta</li>
- <li>4. Akhil Reddy Busireddy</li>
+ <li>4. Akhil Kumar Reddy Busireddy</li>
 
 
 <h2> Introduction to our Project:</h2>
